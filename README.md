@@ -59,3 +59,5 @@ fix: fix empty state
 style: improve project card spacing
 refactor: extract project toolbar
 ```
+
+Test protected main branch.
